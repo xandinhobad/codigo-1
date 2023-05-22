@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Anúncio</title>
+
     <style>
         /* Estilos para o container do anúncio */
         #ad-container {
@@ -20,13 +17,3 @@
             border: none;
         }
     </style>
-</head>
-<body>
-    <div id="ad-container">
-        <iframe id="ad-iframe" srcdoc='<script async="async" data-cfasync="false" src="//ophoacit.com/1?z=5970342"></script>'></iframe>
-    </div>
-
-    <!-- Aqui está o restante do conteúdo da sua página -->
-    
-</body>
-</html>
